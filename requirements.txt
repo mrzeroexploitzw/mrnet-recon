@@ -1,0 +1,4 @@
+report_*.txt
+*.log
+__pycache__/
+*.pyc
